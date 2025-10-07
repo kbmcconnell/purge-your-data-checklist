@@ -23,6 +23,10 @@ For accounts you plan to keep, must keep, or otherwise cannot delete, here are s
 Mail, docs, authenticator, and more
 - [Proton](https://proton.me/)
 
+Docs
+- [grist](https://www.getgrist.com/) is spreadsheet software you can self-host
+- [cryptpad](https://cryptpad.fr/)
+
 Browser
 - **best for anonymity**: [Tor](https://www.torproject.org/)
 - **user-friendly**: [Firefox](https://www.firefox.com/en-US/)
