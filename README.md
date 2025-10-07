@@ -23,18 +23,18 @@ For accounts you plan to keep, must keep, or otherwise cannot delete, here are s
 
 ## Google alternatives
 
-Mail, docs, authenticator, and more
+Mail, docs, authenticator, and more:
 - [Proton](https://proton.me/)
 
-Docs
+Docs:
 - [grist](https://www.getgrist.com/) is spreadsheet software you can self-host
 - [cryptpad](https://cryptpad.fr/)
 
-Browser
+Browser:
 - **best for anonymity**: [Tor](https://www.torproject.org/)
 - **user-friendly**: [Firefox](https://www.firefox.com/en-US/)
 
-Search engine
+Search engine:
 By default, the search engine on Firefox is DuckDuckGo, but you can change it to any search engine you wish.
 - **popular**: [DuckDuckGo](https://duckduckgo.com/)
 - **paid alternative**: [kagi](https://kagi.com/)
