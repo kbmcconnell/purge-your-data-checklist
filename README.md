@@ -42,7 +42,7 @@ By default, the search engine on Firefox is DuckDuckGo, but you can change it to
 # Step 3: Delete your information
 
 ## Data brokers
-Intel Techniques is an excellent resource for this process. I recommend going through their list of data brokers to start purging your information from their databases. Note that this part is not 100% effective, but it becomes more effective the more you're able to reduce your overall digital footprint.
+[Intel Techniques](https://inteltechniques.com/workbook.html) is an excellent resource for this process. I recommend going through their list of data brokers to start purging your information from their databases. Note that this part is not 100% effective, but it becomes more effective the more you're able to reduce your overall digital footprint.
 
 ### Some pointers
 - Most of these data brokers require you to confirm your request via an email confirmation link
@@ -64,7 +64,7 @@ Most websites you have an account with have some sort of privacy policy that all
 - under this section they you may be able to have your personal information deleted by following the steps under "Your Privacy Choices" at the bottom of their website
 
 # Step 4: Delete your accounts
-If you have accounts
+If you have accounts that you're no longer using, first delete any of your personal information saved to the account, then determine the process necessary to have your entire account deleted. If there isn't a "delete / deactivate my account" option in your account settings, then you will need to search their privacy policy for how to delete your account, musch like the Adidas example in Step 3. Search for the word "delete" or "deactivate" on their policy until you find what you're looking for. Some websites require you to fill out a form, others require an email, and some may not allow you to request deletion at all. Data retention policicies may vary depending on your location, and that will be outlined in the policy.
 
 # Step 5: Delete unused apps
-Now let's move to your phone: if you're not regularly using an app on your phone, I'd recommend deleting it.
+This one should be straightforward: if you're not regularly using an app on your phone, I'd recommend deleting it. Many apps track your activity, health stats, location settings, and more.
